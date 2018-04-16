@@ -1,1 +1,1 @@
-# lab-09-counting
+This is lab 11...we're continuing with JavScript for loops and drawing on a canvas.
